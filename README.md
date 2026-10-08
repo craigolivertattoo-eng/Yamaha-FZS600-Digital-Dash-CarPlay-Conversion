@@ -4,16 +4,41 @@ Community build reference for the **1998 Yamaha FZS600 (5DM)**. Compatibility wi
 
 > **Safety and verification notice:** The accompanying Craig's Layout illustrations are reference concepts, not a fully validated wiring schematic. Some illustration captions say VERIFIED where no complete functional test has been documented. Follow the written corrections below, the Yamaha service manual, and the exact dashboard manufacturer's pinout. Do not solder connections based on colour alone.
 
-## Illustrated project sections
+## Uploaded project images
 
-1. Digital dash wiring and original clock loom — `images/01-dash-wiring-reference.png`
-2. Custom dash mounting bracket — `images/02-dash-mount.png`
-3. Alternative dash mounting illustration — `images/03-dash-mount-duplicate.png`
-4. Thundercat front-wheel speedometer drive concept — `images/04-speedo-conversion-concept.png`
-5. CarPlay ignition-switched power concept — `images/05-carplay-power-reference.png`
-6. Fuel sender connection and float test — `images/06-fuel-sender-reference.png`
+Five JPG reference images have been uploaded to the repository root. They are displayed below under their uploaded filenames because their exact subject-to-filename mapping has not yet been verified. **Read the wiring corrections below before using any illustration.**
 
-**Image upload pending:** The original image pack is available from the project owner. The files will appear above after they are uploaded into the repository's `images/` folder.
+### Uploaded image 1
+
+![FZS600 project reference image 1](./518f039a-082b-4361-8693-e8038a6417d4.jpg)
+
+[Open original image](./518f039a-082b-4361-8693-e8038a6417d4.jpg)
+
+### Uploaded image 2
+
+![FZS600 project reference image 2](./711b0af1-4c72-4dbf-8a79-2b19058c55ba.jpg)
+
+[Open original image](./711b0af1-4c72-4dbf-8a79-2b19058c55ba.jpg)
+
+### Uploaded image 3
+
+![FZS600 project reference image 3](./8d2a0504-304a-422c-afd4-f771d6becad7.jpg)
+
+[Open original image](./8d2a0504-304a-422c-afd4-f771d6becad7.jpg)
+
+### Uploaded image 4
+
+![FZS600 project reference image 4](./d15a4c49-e674-4d37-960e-bc145fec4a95.jpg)
+
+[Open original image](./d15a4c49-e674-4d37-960e-bc145fec4a95.jpg)
+
+### Uploaded image 5
+
+![FZS600 project reference image 5](./d2dd8966-6cf6-4a4e-9733-20bc26df8ade.jpg)
+
+[Open original image](./d2dd8966-6cf6-4a4e-9733-20bc26df8ade.jpg)
+
+**Still to check:** Six images were supplied in the original conversation, but only five JPG files are present in the uploaded file list. The missing illustration and each image's correct descriptive filename should be checked before marking the gallery complete.
 
 ## Wiring reference (1998 FZS600 to 7-MS115)
 
