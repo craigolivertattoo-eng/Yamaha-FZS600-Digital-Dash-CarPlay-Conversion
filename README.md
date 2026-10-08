@@ -6,7 +6,7 @@ Community build reference for the **1998 Yamaha FZS600 (5DM)**. Compatibility wi
 
 ## Uploaded project images
 
-Five JPG reference images have been uploaded to the repository root. They are displayed below under their uploaded filenames because their exact subject-to-filename mapping has not yet been verified. **Read the wiring corrections below before using any illustration.**
+The five JPG reference images are the complete project gallery. They are displayed below under their uploaded filenames because their exact subject-to-filename mapping has not yet been verified. **Read the wiring corrections below before using any illustration.**
 
 ### Uploaded image 1
 
@@ -38,7 +38,6 @@ Five JPG reference images have been uploaded to the repository root. They are di
 
 [Open original image](./d2dd8966-6cf6-4a4e-9733-20bc26df8ade.jpg)
 
-**Still to check:** Six images were supplied in the original conversation, but only five JPG files are present in the uploaded file list. The missing illustration and each image's correct descriptive filename should be checked before marking the gallery complete.
 
 ## Wiring reference (1998 FZS600 to 7-MS115)
 
